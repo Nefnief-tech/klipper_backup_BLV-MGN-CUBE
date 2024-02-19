@@ -1,4 +1,4 @@
-# klipper-backup 💾 
-Klipper backup script for manual or automated GitHub backups 
+#The updated config files for the BLV MGN cube running klipper on the duet 2 wifi 
 
-This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
+19.02.2024:
+-uploaded updated config with new run current to prevent overheating of motors and removed unsupported features
